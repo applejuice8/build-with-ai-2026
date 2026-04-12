@@ -282,6 +282,16 @@ Local Python  →  Vertex AI Agent Engine  →  Auto-scaling serverless REST API
 # Talk to Gemini-CLI
 
 ```
-use my main.py to find a job. my cv is 7 years fintech delivery lead, msc ku leuven. role: senior product manager. location: berlin
+Run main.py with the following:
+
+CV: 7 years Fintech Delivery Lead. Led API compliance migration at a tier-1 payments processor. 
+Managed squads of 12 across engineering, legal, and commercial. Launched 3 B2B SaaS products. 
+MSc Information Management, KU Leuven. Certified Scrum Master. Fluent in English and Dutch.
+
+Target role: Senior Product Manager — preferably in payments, open banking, or embedded finance.
+
+Location: Berlin, Germany.
+
+Find me a matching live job and write a punchy cold outreach email I can send today.
 ```
 
