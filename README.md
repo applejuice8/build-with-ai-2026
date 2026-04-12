@@ -81,7 +81,7 @@ job-hunter/
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/applejuice8/build-with-ai-2026.git
 cd job-hunter
 pip install -r requirements.txt
 ```
