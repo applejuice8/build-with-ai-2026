@@ -1,4 +1,4 @@
-# 🎯 AI Job Hunter Pipeline
+# Job Application Assistant
 
 > A multi-agent AI pipeline that scouts live job boards, analyses your CV against real job descriptions, and drafts a hyper-personalised cold outreach email — all from a single command.
 
