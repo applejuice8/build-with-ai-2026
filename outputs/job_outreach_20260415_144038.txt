@@ -1,0 +1,23 @@
+JOB HUNTER PIPELINE — OUTPUT
+Generated : 2026-04-15 14:40:38
+============================================================
+
+INPUT
+-----
+CV       : 3+ years Software Engineer / QA Automation Engineer with hands-on experience across the full software development lifecycle in large-scale internet and fintech systems. Designed and developed intelligent automation frameworks for system validation, diagnostics, and end-to-end integration testing of RESTful APIs and distributed services. Built scalable testing platforms and internal tools using Java and Python to accelerate R&D cycles, improve deployment reliability, and reduce manual validation effort. Contributed to product architecture planning with a focus on testability, system stability, and operational risk resilience. Experienced in API security validation, SQL, Linux environments, Git-based workflows, and troubleshooting infrastructure components including DNS, network connectivity, and authentication services. Led cross-functional technical initiatives across engineering, QA, operations, and product teams, including mentoring junior engineers through code reviews, workshops, and knowledge sharing sessions. Strong interest in applying AI/ML and generative testing approaches to improve engineering efficiency and system reliability. Background in fintech and payment systems, with prior experience supporting compliance-sensitive and high-availability platforms. Fluent in English and Mandarin.
+Role     : AI Agent Engineer
+Location : Federal Territory Of Kuala Lumpur, Malaysia (MY)
+
+============================================================
+
+OUTREACH EMAIL DRAFT
+--------------------
+Subject: AI Agent Engineer - Fintech Automation Expertise
+
+Hi Hiring Team,
+
+My 3+ years in software and QA automation engineering, specifically within large-scale fintech systems, includes designing intelligent automation frameworks and scalable platforms using Java and Python. I have consistently driven R&D acceleration, improved deployment reliability, and contributed to product architecture with a focus on system stability. My strong interest in applying AI/ML and generative testing approaches complements my background in operational risk resilience and API security. I am actively seeking AI Agent Engineer roles in Federal Territory Of Kuala Lumpur, Malaysia.
+
+Open to a 20-min call?
+
+============================================================

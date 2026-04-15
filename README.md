@@ -279,19 +279,35 @@ Local Python  →  Vertex AI Agent Engine  →  Auto-scaling serverless REST API
 ---
 
 
-# Talk to Gemini-CLI
+## Test in Gemini-CLI
+
+Feed the following prompt to Gemini-CLI:
 
 ```
 Run main.py with the following:
 
-CV: 7 years Fintech Delivery Lead. Led API compliance migration at a tier-1 payments processor. 
-Managed squads of 12 across engineering, legal, and commercial. Launched 3 B2B SaaS products. 
-MSc Information Management, KU Leuven. Certified Scrum Master. Fluent in English and Dutch.
+CV: 3+ years Software Engineer / QA Automation Engineer with hands-on experience across the full software development lifecycle in large-scale internet and fintech systems.
 
-Target role: Senior Product Manager — preferably in payments, open banking, or embedded finance.
+Designed and developed intelligent automation frameworks for system validation, diagnostics, and end-to-end integration testing of RESTful APIs and distributed services.
 
-Location: Berlin, Germany.
+Built scalable testing platforms and internal tools using Java and Python to accelerate R&D cycles, improve deployment reliability, and reduce manual validation effort.
 
-Find me a matching live job and write a punchy cold outreach email I can send today.
+Contributed to product architecture planning with a focus on testability, system stability, and operational risk resilience.
+
+Experienced in API security validation, SQL, Linux environments, Git-based workflows, and troubleshooting infrastructure components including DNS, network connectivity, and authentication services.
+
+Led cross-functional technical initiatives across engineering, QA, operations, and product teams, including mentoring junior engineers through code reviews, workshops, and knowledge sharing sessions.
+
+Strong interest in applying AI/ML and generative testing approaches to improve engineering efficiency and system reliability.
+
+Background in fintech and payment systems, with prior experience supporting compliance-sensitive and high-availability platforms.
+
+Fluent in English and Mandarin.
+
+Target role: AI Agent Engineer
+
+Location: Federal Territory of Kuala Lumpur, Malaysia
+
+Do not need to ask me for input. Find me a matching live job and write a punchy cold outreach email I can send today.
 ```
 
